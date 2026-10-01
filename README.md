@@ -211,4 +211,4 @@ Kirin is provided as a full free version with all features and updates included.
 Ready to streamline your installation process? Download Kirin today and unlock the full potential of your Windows applications!
 
 ---
-**Last updated:** 2026-09-30 23:16:30 UTC
+**Last updated:** 2026-10-01 02:46:19 UTC
